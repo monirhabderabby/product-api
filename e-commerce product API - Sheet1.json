@@ -1,0 +1,44 @@
+[
+ {
+   "id": 1,
+   "name": "Nike",
+   "image": "https://i.ibb.co/Httncjq/img1.jpg",
+   "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+   "price": "$40"
+ },
+ {
+   "id": 2,
+   "name": "Nike",
+   "image": "https://i.ibb.co/1QgmY18/img2.jpg",
+   "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+   "price": "$43"
+ },
+ {
+   "id": 3,
+   "name": "Casual shoe",
+   "image": "https://i.ibb.co/RQFC8V3/img3.jpg",
+   "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+   "price": "$35"
+ },
+ {
+   "id": 4,
+   "name": "Nans shoe",
+   "image": "https://i.ibb.co/xJrBP59/img4.jpg",
+   "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+   "price": "$65"
+ },
+ {
+   "id": 5,
+   "name": "Ophidia GG Shoulder Baag",
+   "image": "https://i.imgur.com/ztyVjqM.jpg",
+   "description": "The GG motif in a distinct black/grey combination is further enriched with the Web strap and black leather trims.",
+   "price": "$980"
+ },
+ {
+   "id": 6,
+   "name": "Oxford Backpack",
+   "image": "https://i.imgur.com/lwezeYX.jpg",
+   "description": "Men Casual Waterproof Large Capacity Oxford Backpack",
+   "price": "$46.08"
+ }
+]
